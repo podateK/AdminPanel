@@ -1,0 +1,8 @@
+name: TestGUI
+version: '${project.version}'
+main: me.komornik.Main
+api-version: 1.16
+commands:
+  panel:
+    description: Otwiera Admin Panel
+
