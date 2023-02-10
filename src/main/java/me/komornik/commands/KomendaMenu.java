@@ -1,6 +1,6 @@
 package me.komornik.commands;
 
-import me.komornik.guis.glownegui;
+import me.komornik.gui.glownegui;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

@@ -1,4 +1,4 @@
-package me.komornik.guis;
+package me.komornik.gui;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 public class glownegui {
     public static Inventory glownyPanel() {
         Inventory inventory1 = Bukkit.createInventory(null, 27, ChatColor.RED + "Panel Administratora");
-    //czas gry (rano/wieczor)
+        //czas gry (rano/wieczor)
         ItemStack time = new ItemStack(Material.SUNFLOWER, 1);
         ItemMeta TimeMeta = time.getItemMeta();
         TimeMeta.setDisplayName(ChatColor.YELLOW + "Czas Gry");

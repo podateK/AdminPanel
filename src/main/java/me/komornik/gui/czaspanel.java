@@ -1,4 +1,4 @@
-package me.komornik.guis;
+package me.komornik.gui;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
