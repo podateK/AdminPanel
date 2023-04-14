@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.Komornik</groupId>
-    <artifactId>TestGUI</artifactId>
+    <artifactId>AdminPanel</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>TestGUI</name>
+    <name>AdminPanel</name>
 
     <properties>
         <java.version>1.8</java.version>

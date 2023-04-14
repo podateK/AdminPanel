@@ -1,4 +1,4 @@
-name: TestGUI
+name: AdminPanel
 version: '${project.version}'
 main: me.komornik.Main
 api-version: 1.16
